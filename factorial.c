@@ -23,7 +23,6 @@ int main(int argc, char *argv[])
 		if (num % i == 0)
 		{
 		printf("%d=%d*%d\n",num, num / i, i);
-		exit(0);
 		}
 	}
 
